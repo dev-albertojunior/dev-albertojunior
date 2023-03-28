@@ -3,8 +3,8 @@
 My name is Alberto Júnior, and I'm a junior .NET developer. I come from a background in mechanical engineering, but I've always been fascinated by the world of software development. Over the past six months, I've been working hard to sharpen my skills in this field.
 
 <p>
-<img src= "https://github-readme-stats.vercel.app/api?username=dev-albertojunior&show_icons=true&theme=dark" alt="dev-albertojunior" />
-<img style = "height: 195px;" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=dev-albertojunior&theme=dark&layout=compact" alt="dev-albertojunior" />
+<img style = "height: 180px;" src= "https://github-readme-stats.vercel.app/api?username=dev-albertojunior&show_icons=true&theme=dark" alt="dev-albertojunior" />
+<img style = "height: 180px;" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=dev-albertojunior&theme=dark&layout=compact" alt="dev-albertojunior" />
 </p>
 
 
